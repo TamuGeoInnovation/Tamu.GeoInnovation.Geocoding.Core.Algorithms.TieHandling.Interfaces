@@ -145,10 +145,12 @@
     <ProjectReference Include="..\..\..\Geocoding.Core.Metadata.FeatureMatchingResultTypes\src\Main\Geocoding.Core.Metadata.FeatureMatchingResultTypes.Dev.csproj">
       <Project>{30A809F9-1CCA-4747-ADB4-14FC6B8313DD}</Project>
       <Name>Geocoding.Core.Metadata.FeatureMatchingResultTypes.Dev</Name>
+      <Private>False</Private>
     </ProjectReference>
     <ProjectReference Include="..\..\..\Geocoding.Core.Queries\src\Main\Geocoding.Core.Queries.Dev.csproj">
       <Project>{A1CEFF20-E839-47DE-88C4-06A8AD225221}</Project>
       <Name>Geocoding.Core.Queries.Dev</Name>
+      <Private>False</Private>
     </ProjectReference>
     <ProjectReference Include="..\..\..\Geocoding.Core.ReferenceDatasets.ReferenceSourceQueries.Results\src\Main\Geocoding.Core.ReferenceDatasets.ReferenceSourceQueries.Results.Dev.csproj">
       <Project>{AF385447-152E-47B3-B0D4-37557B24E50A}</Project>
