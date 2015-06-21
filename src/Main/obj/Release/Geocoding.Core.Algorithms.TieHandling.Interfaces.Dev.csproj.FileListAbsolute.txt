@@ -1,6 +1,0 @@
-C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.Algorithms.TieHandling.Interfaces\src\Main\obj\Release\Geocoding.Core.Algorithms.TieHandling.Interfaces.Dev.csprojResolveAssemblyReference.cache
-C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.Algorithms.TieHandling.Interfaces\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Geocoding.Core.Algorithms.TieHandling.Interfaces.dll.config
-C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.Algorithms.TieHandling.Interfaces\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Geocoding.Core.Algorithms.TieHandling.Interfaces.dll
-C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.Algorithms.TieHandling.Interfaces\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Geocoding.Core.Algorithms.TieHandling.Interfaces.pdb
-C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.Algorithms.TieHandling.Interfaces\src\Main\obj\Release\Tamu.GeoInnovation.Geocoding.Core.Algorithms.TieHandling.Interfaces.dll
-C:\DevSource\Tamu\GeoInnovation\Geocoding.Core.Algorithms.TieHandling.Interfaces\src\Main\obj\Release\Tamu.GeoInnovation.Geocoding.Core.Algorithms.TieHandling.Interfaces.pdb
