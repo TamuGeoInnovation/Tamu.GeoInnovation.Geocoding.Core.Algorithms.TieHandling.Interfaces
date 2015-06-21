@@ -142,10 +142,13 @@
       <Name>Geocoding.Core.Algorithms.FeatureMatching.Results.Dev</Name>
       <Private>False</Private>
     </ProjectReference>
-    <ProjectReference Include="..\..\..\Geocoding.Core.ReferenceDatasets.FeatureSources.Interfaces\src\Main\Geocoding.Core.ReferenceDatasets.FeatureSources.Interfaces.Dev.csproj">
-      <Project>{9EB4E875-CA0B-46B7-98C3-3A813337F1E4}</Project>
-      <Name>Geocoding.Core.ReferenceDatasets.FeatureSources.Interfaces.Dev</Name>
-      <Private>False</Private>
+    <ProjectReference Include="..\..\..\Geocoding.Core.Metadata.FeatureMatchingResultTypes\src\Main\Geocoding.Core.Metadata.FeatureMatchingResultTypes.Dev.csproj">
+      <Project>{30A809F9-1CCA-4747-ADB4-14FC6B8313DD}</Project>
+      <Name>Geocoding.Core.Metadata.FeatureMatchingResultTypes.Dev</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Geocoding.Core.Queries\src\Main\Geocoding.Core.Queries.Dev.csproj">
+      <Project>{A1CEFF20-E839-47DE-88C4-06A8AD225221}</Project>
+      <Name>Geocoding.Core.Queries.Dev</Name>
     </ProjectReference>
     <ProjectReference Include="..\..\..\Geocoding.Core.ReferenceDatasets.ReferenceSourceQueries.Results\src\Main\Geocoding.Core.ReferenceDatasets.ReferenceSourceQueries.Results.Dev.csproj">
       <Project>{AF385447-152E-47B3-B0D4-37557B24E50A}</Project>
