@@ -145,6 +145,14 @@
       <Name>Geocoding.Core.Algorithms.FeatureMatching.Results.Dev</Name>
       <Private>False</Private>
     </ProjectReference>
+    <ProjectReference Include="..\..\..\Geocoding.Core.Algorithms.TieHandling.TypeManagers\src\Main\Geocoding.Core.Algorithms.TieHandling.TypeManagers.Dev.csproj">
+      <Project>{c67cadda-c33e-46b0-a9ba-5a9436b1a32b}</Project>
+      <Name>Geocoding.Core.Algorithms.TieHandling.TypeManagers.Dev</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Geocoding.Core.Algorithms.TieHandling.Types\src\Main\Geocoding.Core.Algorithms.TieHandling.Types.Dev.csproj">
+      <Project>{92552c9a-68d0-47ad-90a6-601674c5ae33}</Project>
+      <Name>Geocoding.Core.Algorithms.TieHandling.Types.Dev</Name>
+    </ProjectReference>
     <ProjectReference Include="..\..\..\Geocoding.Core.Metadata.FeatureMatchingResultTypes\src\Main\Geocoding.Core.Metadata.FeatureMatchingResultTypes.Dev.csproj">
       <Project>{30A809F9-1CCA-4747-ADB4-14FC6B8313DD}</Project>
       <Name>Geocoding.Core.Metadata.FeatureMatchingResultTypes.Dev</Name>
@@ -161,7 +169,9 @@
       <Private>False</Private>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Implementations\" />
+  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!--  
   <Target Name="BeforeBuild">
